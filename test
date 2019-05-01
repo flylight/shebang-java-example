@@ -1,0 +1,8 @@
+#!/Users/arymar/.sdkman/candidates/java/current/bin/java --source 11
+public class HelloJeeConf {
+ 
+    public static void main(String[] args) {
+        System.out.println("Hello, JEEConf People!!");
+    }
+ 
+}
